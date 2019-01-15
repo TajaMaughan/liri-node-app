@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/TajaMaughan/liri-node-app/issues"
   },
-  "homepage": "https://github.com/TajaMaughan/liri-node-app#readme"
+  "homepage": "https://github.com/TajaMaughan/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0"
+  }
 }
