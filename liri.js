@@ -45,7 +45,7 @@ function concertThis() {
 function spotifyThisSong() {
     var song = term;
     if (song == "") {
-        song = "the sign";
+        song = "the sign ace of base";
     }
     spotify.search({ type: "track", query: song }, function (err, response) {
         if (err) {
