@@ -12,47 +12,47 @@ Following those entries you will use one of the following:
 
 ### concert-this
 
-![concert-this](/pictures/concert-this.png)
+![concert-this](/pictures/concert-this.PNG)
 
 This shows the command and the information that was returned.
 
-![concert-this-log](/pictures/concert-this-log.png)
+![concert-this-log](/pictures/concert-this-log.PNG)
 
 A log of returned information
 
 
 ### spotify-this-song
 
-![spotify-this-song](/pictures/spotify-this-song.png)
+![spotify-this-song](/pictures/spotify-this-song.PNG)
 
 This shows the command and the information that was returned.
 
-![spotify-this-song-log](/pictures/spotify-this-song-log.png)
+![spotify-this-song-log](/pictures/spotify-this-song-log.PNG)
 
 A log of returned information
 
 
 ### movie-this
 
-![movie-this](/pictures/movie-this.png)
+![movie-this](/pictures/movie-this.PNG)
 
 This shows the command and the information that was returned.
 
-![movie-this-log](/pictures/movie-this-log.png)
+![movie-this-log](/pictures/movie-this-log.PNG)
 
 A log of returned information
 
 
 ### do-what-it-says
 
-![do-what-it-says](/pictures/do-what-it-says.png)
+![do-what-it-says](/pictures/do-what-it-says.PNG)
 
 This shows the command and the information that was returned.
 
-![random.txt file](/pictures/random-txt.png)
+![random.txt file](/pictures/random-txt.PNG)
 
 This shows the information utilized by do-what-it-says.
 
-![do-what-it-says-log](/pictures/do-what-it-says-log.png)
+![do-what-it-says-log](/pictures/do-what-it-says-log.PNG)
 
 A log of returned information
